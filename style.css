@@ -1,0 +1,99 @@
+
+
+fieldset{
+
+	/*background-color: white;*/
+    margin: 0px 100px 0px 100px;
+    text-align: center;
+}
+
+table, th, td {
+    padding-top: 1px;
+    padding-right: 1px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    border: 1px solid white;
+    margin: auto;
+
+}
+
+.large{
+    border-radius: 5px;
+    /*background-color: #f2f2f2;*/
+    padding: 20px;
+}
+ input[type=text],input[type=email],input[type=password]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=submit],input[type=reset] {
+	width:20%;
+    background-color: rgba(0,0,0,0); /*#28a428/*#4CAF50*/;
+    border:1px solid #ccc ;
+    color: white;
+    padding: 12px 20px;
+   /* text-decoration: none;*/
+    margin: 4px 0px;
+    cursor: pointer;
+    /*margin-left: 70%;*/
+}
+input[type=file]
+{   
+    width: 11%;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.small
+{
+	width: 50%;
+	margin: auto;
+    margin-top: 5%;
+ }
+ .hp
+ {
+
+	padding: 12px 20px;
+ 	/*background-color: #f2f2f2;*/
+ }
+ .dell
+ {
+ 	width:52%;
+ 	padding: 4px 0px;
+ 	cursor: pointer;
+  
+ }
+ .sma
+{
+	width: 80%;
+	margin: 30px 115px;
+ }
+ /*.left
+ {
+ 	float: right;
+ }*/
+  .de
+ {
+ 	width:30%;
+ 	/*padding: 4px 0px;*/
+ 	/*cursor: pointer;*/
+    
+ }
+ .h
+ {
+
+	padding: 12px 20px;
+ 	background-color: #9c8cf2/*#ff1a1a,#F08080,#ADFF2F,#f2f2f2*/;
+ }
+
+ .social-buttons{
+    float: right;
+}
+
